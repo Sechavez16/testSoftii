@@ -1,0 +1,72 @@
+{
+  "empleados": [
+    {
+      "nombre": "Santiago",
+      "cargo": "Cocinero",
+      "id": 1
+    },
+    {
+      "nombre": "Andrea",
+      "cargo": "Cocinera",
+      "id": 2
+    }
+  ],
+  "transaccionesPropinas": [
+    {
+      "montoTotalPropina": 1500,
+      "metodoDePago": "efectivo",
+      "fechaHora": "2024-02-09T17:05:52.778Z",
+      "distribucionPropina": 2,
+      "id": 2
+    },
+    {
+      "montoTotalPropina": 5000,
+      "metodoDePago": "efectivo",
+      "fechaHora": "2024-02-09T18:02:42.080Z",
+      "distribucionPropina": 2,
+      "id": 3
+    },
+    {
+      "montoTotalPropina": 25,
+      "metodoDePago": "efectivo",
+      "fechaHora": "2024-02-09T18:52:52.116Z",
+      "distribucionPropina": 2,
+      "id": 4
+    },
+    {
+      "montoTotalPropina": 75,
+      "metodoDePago": "bbva",
+      "fechaHora": "2024-02-09T18:55:13.917Z",
+      "distribucionPropina": 1,
+      "id": 5
+    },
+    {
+      "montoTotalPropina": 900,
+      "metodoDePago": "bbva",
+      "fechaHora": "2024-02-09T18:56:45.090Z",
+      "distribucionPropina": 2,
+      "id": 6
+    },
+    {
+      "montoTotalPropina": 1200,
+      "metodoDePago": "efectivo",
+      "fechaHora": "2024-02-10T23:24:40.701Z",
+      "distribucionPropina": 2,
+      "id": 7
+    }
+  ],
+  "turnos": [
+    {
+      "fechaInicio": "2024-02-06T08:00:00Z",
+      "fechaFin": "2024-02-06T16:00:00Z",
+      "IdEmpleado": 1,
+      "id": 1
+    },
+    {
+      "fechaInicio": "2024-02-06T08:00:00Z",
+      "fechaFin": "2024-02-06T16:00:00Z",
+      "IdEmpleado": 2,
+      "id": 2
+    }
+  ]
+}
